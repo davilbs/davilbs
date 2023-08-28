@@ -26,6 +26,9 @@
       <img align="left" alt="Davi-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
+
+</br>
+
 ## Contact 
 <div> 
   <a href="https://www.linkedin.com/in/davilage/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

@@ -5,7 +5,7 @@
     <img align="center" style="margin-right: 100px;" src="https://github-readme-stats.vercel.app/api?username=davilbs&count_private=true&show_icons=true&theme=tokyonight&hide=issues,stars" />
   </a>
 
-  <a class="github-stats">
+  <a class="github-stats" href="https://github.com/davilbs>
     <img align="center" style="margin-left: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davilbs&langs_count=5&theme=tokyonight&layout=compact" />
   </a>
  
